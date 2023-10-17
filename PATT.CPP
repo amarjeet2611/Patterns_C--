@@ -8,7 +8,6 @@ int count=0;
 while(row<=n){
 int col=1;
 while(col<=row){
-    
     count=count+1;
     cout<<count;
     col=col+1;
