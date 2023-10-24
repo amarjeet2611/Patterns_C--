@@ -10,8 +10,7 @@ int col=1;
 while(col<=row){
     count=count+1;
     cout<<count;
-    col=col+1;
-}
+    col=col+1;}
 cout<<endl;
 row=row+1;
 }
