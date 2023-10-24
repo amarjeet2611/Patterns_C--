@@ -15,9 +15,4 @@ while(col<=row){
 cout<<endl;
 row=row+1;
 }
-
-
-
-
-
 }
