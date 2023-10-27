@@ -12,6 +12,7 @@ while(j<=n){
 }
 cout<<endl;
 i=i+1;
+
     
 }
 }
